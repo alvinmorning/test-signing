@@ -1,0 +1,1 @@
+test 4 setelah config email ke email yang sama dengan gpg
